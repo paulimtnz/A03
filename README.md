@@ -1,63 +1,78 @@
-#GIT AND GITHUB TUTORIAL
-##Step 1
-####Install Webstorm
-##Step 2
-####Install Git as a Local Program
-##Step 3
-####Create a GitHub account
-##Step 4
-####Connect GitHub with Webstorm
+# GIT AND GITHUB TUTORIAL
+
+## Step 1
+#### Install Webstorm
+
+## Step 2
+#### Install Git as a Local Program
+
+## Step 3
+#### Create a GitHub account
+
+## Step 4
+#### Connect GitHub with Webstorm
 - In Webstorm press (Ctrl+Alt+S) for system preferences.
 - Select the version control Git. Enter the path to the git.exe.
-##Step 5
-####Add GitHub Password to Webstorm
+
+## Step 5
+#### Add GitHub Password to Webstorm
 - In Webstorm press (Ctrl+Alt+S) for system preferences.
 - Select Appearance and Behavior/System Settings/Passwords.
-##Step 6
-####Create a Repository on GitHub
+
+## Step 6
+#### Create a Repository on GitHub
 - Log in and browse to the GitHub home page.
 - Find the New repository option under the + sign next to your profile picture (in the top right corner).
 - Choose "Create New Repository".
 - Enter a name for your repository and make it public.
 - Click the Create repository button.
-##Step 7
-####Create a Repository from Webstorm
+
+## Step 7
+#### Create a Repository from Webstorm
 - Select VCS and Import into Version Control.
-##Step 8
-####Import a Repository from GitHub
+
+## Step 8
+#### Import a Repository from GitHub
 - From Main page select checkout from version control "Git OR"
 - From within Webstorm select VCS, Checkout from version control, Git.
 - Enter GitHub repository name.
 - Enter local path name.
 
-##Step 9
-####Create a Webstorm File
+## Step 9
+#### Create a Webstorm File
 - Choose "File"-"New"-"HTML" (to create an HTML file).
 - Choose "File"-"Stylesheet" (to create your CSS file).
-##Step 10
-###Add files to Git
+
+## Step 10
+### Add files to Git
 - The Add to Git dialog opens.
 - Click Add. This adds to local file system.
-##Step 11 
-###Commit Your Changes
-##Step 12
-###Push Change to Remote Repository
+
+## Step 11 
+### Commit Your Changes
+
+
+## Step 12
+### Push Change to Remote Repository
 - Click "Ctrl, Shift, K" or "VCS, Git, Push".
 - File is now on GitHub.
-##Step 13
-###Set up GitHub Pages
+
+## Step 13
+### Set up GitHub Pages
 - Click Settings.
 - Check the repository name.
-##Step 14 
-###Choose GitHub Page Location
+
+## Step 14 
+### Choose GitHub Page Location
 - Select "Master branch".
 - Note the published Url.
-##Step 15
-###Check your GitHub Pages
+
+## Step 15
+### Check your GitHub Pages
 - Copy the GitHub.io URL into a browser.
 - Post the URL into Moodle with your GitHub account URL.
 
-##GLOSSARY
+## GLOSSARY
 - **Branch**: it allows you to take the original codebase, create an exact replica of it, make changes, and then submit your changes to be merged into the original code base. 
 This way, you can make sure the final code base is always bug-free. Or at least not disastrous.
 
@@ -95,7 +110,7 @@ This way, you can make sure the final code base is always bug-free. Or at least 
 - **Repository**: a GIT repository allows performing various operations on it to create different versions of a project. These operations include the addition of files, creating new repositories, committing an action, deleting a repository, etc. These modifications will result in the creation of different versions of a project.
 
 
-##REFERENCES
+## REFERENCES
 - https://phoenixnap.com/kb/how-to-use-git
 
 
